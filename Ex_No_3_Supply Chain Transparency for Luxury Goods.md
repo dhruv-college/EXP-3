@@ -66,3 +66,13 @@ Teaches real-world supply chain use cases.
 
 # RESULT : 
 
+![exp 3(i)](https://github.com/user-attachments/assets/ca73a912-42c8-4559-8e3f-acd91196149a)
+
+![exp 3(ii)](https://github.com/user-attachments/assets/ef2f3b06-b6b2-41e6-989a-df1d35bf6786)
+
+![exp 3(iii)](https://github.com/user-attachments/assets/c8b5f995-0f51-4aa0-a763-980f27ca1fca)
+
+![exp 3(iv)](https://github.com/user-attachments/assets/78f636ec-9e20-40dd-a144-a7217f002282)
+
+
+Thus the program was implemented and executed successfully and the output was verified
